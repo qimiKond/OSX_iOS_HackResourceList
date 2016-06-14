@@ -6,7 +6,8 @@
   * https://www.reddit.com/r/jailbreak/            (reddit越狱讨论区)
   * http://nirvan.360.cn/blog/?cat=2               (360涅槃团队 干货文章很多)
   * http://blog.qwertyoruiop.com/                  (大神qwertyoruiop)
-  * http://www.freebuf.com/author/熊猫正正         
+  * http://www.freebuf.com/author/熊猫正正         (熊猫正正)
+  * http://pandazheng.blog.163.com/                (熊猫正正)
   * 太极
     * http://www.taig.com/mss/                    （太极越狱2015峰会）
     * http://www.taig.com/platform.html           （太极漏洞提交）
