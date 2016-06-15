@@ -4,6 +4,7 @@
 ---
 * 团队及个人博客
   * https://www.reddit.com/r/jailbreak/            (reddit越狱讨论区)
+  * http://bbs.iosre.com/                          (iOS逆向论坛)
   * http://nirvan.360.cn/blog/?cat=2               (360涅槃团队 干货文章很多)
   * https://reverse.put.as/                        (fG个人博客)
   * http://blog.qwertyoruiop.com/                  (越狱达人qwertyoruiop)
